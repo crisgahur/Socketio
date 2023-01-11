@@ -1,5 +1,5 @@
 # Socket Server Basico
 
-Un servidor de Websockets usando Node, Express y Socket.io
+A Websockets server using Node, Express y Socket.io
 
 
